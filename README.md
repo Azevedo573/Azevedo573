@@ -33,6 +33,7 @@ atualmente:
   - 🌱 Sempre aprendendo e explorando novas tecnologias
   - 👯 Aberto a colaborações em projetos open-source
   - 💬 Pergunte-me sobre Node.js, Python, TypeScript e Playwright
+  - Aprendendo Go
 
 
 
