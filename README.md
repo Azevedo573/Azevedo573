@@ -33,7 +33,7 @@ atualmente:
   - 🌱 Sempre aprendendo e explorando novas tecnologias
   - 👯 Aberto a colaborações em projetos open-source
   - 💬 Pergunte-me sobre Node.js, Python, TypeScript e Playwright
-  - Aprendendo Go
+  -  Aprendendo Go
 
 
 
@@ -50,7 +50,7 @@ atualmente:
 
 <p>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs&theme=dark" alt="Linguagens" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,golang&theme=dark" alt="Linguagens" />
   </a>
 </p>
 
