@@ -1,3 +1,13 @@
+<div align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8A2BE2,100:6A0DAD&height=220&section=header&text=Antonio%20Carlos%20Azevedo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20QA%20Engineer&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Header" /> </div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;QA+Engineer+%F0%9F%94%8D;Aprendendo+Go+%F0%9F%90%B9;Apaixonado+por+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
 <div align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8A2BE2,100:6A0DAD&height=220&section=header&text=Antonio%20Carlos%20Azevedo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20QA%20Engineer&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Header" /> </div> <div align="center">   <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;QA+Engineer+%F0%9F%94%8D;Apaixonado+por+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
   </a> </div>   
