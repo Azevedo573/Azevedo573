@@ -11,7 +11,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim
 
-nome: Antonio Carlos Azevedo
+nome: Antonio Carlos Azevedo;
 username: Azevedo573
 cargo: Desenvolvedor Full Stack & QA Engineer
 localização: Brasil
