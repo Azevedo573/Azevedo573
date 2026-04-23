@@ -85,7 +85,7 @@ Atualmente:
 <h2 align="left">🔄 Minhas Contribuições</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Azevedo573/Azevedo573/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg">
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">   
  <div align="center">   <img src="https://komarev.com/ghpvc/?username=Azevedo573&label=Visitantes&color=8A2BE2&style=for-the-badge" alt="Profile Views" /> </div>   
