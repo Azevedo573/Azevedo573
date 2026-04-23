@@ -11,23 +11,23 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim
 
-nome: Antonio Carlos Azevedo;
+nome: Antonio Carlos Azevedo
 username: Azevedo573
 cargo: Desenvolvedor Full Stack & QA Engineer
 localização: Brasil
+
 interesses:
   - Desenvolvimento Web
   - Automação de Testes
   - Qualidade de Software
   - Novas Tecnologias
+
 atualmente:
   - 🔭 Trabalhando em projetos de desenvolvimento web e automação de testes
   - 🌱 Sempre aprendendo e explorando novas tecnologias
   - 👯 Aberto a colaborações em projetos open-source
   - 💬 Pergunte-me sobre Node.js, Python, TypeScript e Playwright
-  -  Aprendendo Go
-
-
+  - 📚 Aprendendo Go
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">   
