@@ -85,10 +85,11 @@ Atualmente:
 🐍 Minhas Contribuições
 
 <div align="center">   <picture>
-<source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Azevedo573/Azevedo573/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Azevedo573/Azevedo573/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Azevedo573/Azevedo573/output/github-snake-dark.svg" />
-  </picture> </div>   
+<h2>🔄 Minhas Contribuições</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Azevedo573/Azevedo573/output/github-contribution-grid-snake-dark.svg" alt="github-snake" />
+</p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">   
  <div align="center">   <img src="https://komarev.com/ghpvc/?username=Azevedo573&label=Visitantes&color=8A2BE2&style=for-the-badge" alt="Profile Views" /> </div>   
  <div align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:0D1117&height=120&section=footer" width="100%" alt="Footer" /> </div>
