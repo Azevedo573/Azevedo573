@@ -18,13 +18,13 @@
   <li><strong>Localização:</strong> Brasil</li>
 </ul>
 
-interesses:
+Interesses:
   - Desenvolvimento Web
   - Automação de Testes
   - Qualidade de Software
   - Novas Tecnologias
 
-atualmente:
+Atualmente:
   - 🔭 Trabalhando em projetos de desenvolvimento web e automação de testes
   - 🌱 Sempre aprendendo e explorando novas tecnologias
   - 👯 Aberto a colaborações em projetos open-source
