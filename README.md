@@ -85,10 +85,7 @@ Linkein: linkedin.com/in/antoniocarlosazevedo
 <div align="center">
 
 <img width="49%" height="195px"
-src="https://github-readme-stats.vercel.app/api?username=Azevedo573&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="41%" height="195px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo573&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azevedo573&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 </div>
 
